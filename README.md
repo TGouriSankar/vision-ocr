@@ -1,4 +1,4 @@
-#Vision-OCR Project
+# Vision-OCR Project
 
 In this project, I have utilized the Llama 3.2-Vision model to process and extract text from images effectively. The model was executed using Ollama, ensuring seamless integration and efficient text recognition.
 
